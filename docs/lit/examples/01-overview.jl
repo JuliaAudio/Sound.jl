@@ -2,7 +2,7 @@
 # [Sound overview](@id 01-overview)
 
 This page illustrates the Julia package
-[`Sound`](https://github.com/JeffFessler/Sound.jl).
+[`Sound`](https://github.com/JuliaAudio/Sound.jl).
 =#
 
 #srcURL

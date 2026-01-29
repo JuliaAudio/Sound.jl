@@ -1,6 +1,6 @@
 execute = isempty(ARGS) || ARGS[1] == "run"
 
-org, reps = :JeffFessler, :Sound
+org, reps = :JuliaAudio, :Sound
 eval(:(using $reps))
 import Documenter
 import Literate

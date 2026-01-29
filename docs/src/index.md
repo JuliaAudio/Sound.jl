@@ -12,7 +12,7 @@ CurrentModule = Sound
 ## Overview
 
 The Julia module
-[`Sound.jl`](https://github.com/JeffFessler/Sound.jl)
+[`Sound.jl`](https://github.com/JuliaAudio/Sound.jl)
 exports the functions
 `sound`
 and
