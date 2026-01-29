@@ -4,7 +4,7 @@
 This page illustrates the
 [phase vocoder](https://en.wikipedia.org/wiki/Phase_vocoder)
 feature of the Julia package
-[`Sound`](https://github.com/JeffFessler/Sound.jl).
+[`Sound`](https://github.com/JuliaAudio/Sound.jl).
 =#
 
 #srcURL

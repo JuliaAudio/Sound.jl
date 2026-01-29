@@ -1,6 +1,6 @@
 # Sound
 
-https://github.com/JeffFessler/Sound.jl
+https://github.com/JuliaAudio/Sound.jl
 
 [![docs-stable][docs-stable-img]][docs-stable-url]
 [![docs-dev][docs-dev-img]][docs-dev-url]
@@ -110,7 +110,7 @@ Again there is keyword argument
 for selecting the audio input device.
 
 See
-[the examples/ directory](https://github.com/JeffFessler/Sound.jl/blob/main/examples/gtk-record.jl)
+[the examples/ directory](https://github.com/JuliaAudio/Sound.jl/blob/main/examples/gtk-record.jl)
 for an example of creating a Record/Stop/Play GUI
 using
 [Gtk.jl](https://github.com/JuliaGraphics/Gtk.jl).
@@ -172,20 +172,20 @@ because Terminal will properly request microphone permissions.
 
 
 <!-- URLs -->
-[action-img]: https://github.com/JeffFessler/Sound.jl/workflows/CI/badge.svg
-[action-url]: https://github.com/JeffFessler/Sound.jl/actions
-[build-img]: https://github.com/JeffFessler/Sound.jl/workflows/CI/badge.svg?branch=main
-[build-url]: https://github.com/JeffFessler/Sound.jl/actions?query=workflow%3ACI+branch%3Amain
+[action-img]: https://github.com/JuliaAudio/Sound.jl/workflows/CI/badge.svg
+[action-url]: https://github.com/JuliaAudio/Sound.jl/actions
+[build-img]: https://github.com/JuliaAudio/Sound.jl/workflows/CI/badge.svg?branch=main
+[build-url]: https://github.com/JuliaAudio/Sound.jl/actions?query=workflow%3ACI+branch%3Amain
 [pkgeval-img]: https://juliaci.github.io/NanosoldierReports/pkgeval_badges/S/Sound.svg
 [pkgeval-url]: https://juliaci.github.io/NanosoldierReports/pkgeval_badges/S/Sound.html
 [code-blue-img]: https://img.shields.io/badge/code%20style-blue-4495d1.svg
 [code-blue-url]: https://github.com/invenia/BlueStyle
-[codecov-img]: https://codecov.io/github/JeffFessler/Sound.jl/coverage.svg?branch=main
-[codecov-url]: https://codecov.io/github/JeffFessler/Sound.jl?branch=main
+[codecov-img]: https://codecov.io/github/JuliaAudio/Sound.jl/coverage.svg?branch=main
+[codecov-url]: https://codecov.io/github/JuliaAudio/Sound.jl?branch=main
 [docs-stable-img]: https://img.shields.io/badge/docs-stable-blue.svg
-[docs-stable-url]: https://JeffFessler.github.io/Sound.jl/stable
+[docs-stable-url]: https://JuliaAudio.github.io/Sound.jl/stable
 [docs-dev-img]: https://img.shields.io/badge/docs-dev-blue.svg
-[docs-dev-url]: https://JeffFessler.github.io/Sound.jl/dev
+[docs-dev-url]: https://JuliaAudio.github.io/Sound.jl/dev
 [license-img]: http://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat
 [license-url]: LICENSE
 [aqua-img]: https://img.shields.io/badge/Aqua.jl-%F0%9F%8C%A2-aqua.svg
