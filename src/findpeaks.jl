@@ -13,7 +13,7 @@ See https://www.daimi.au.dk/~pmn/sound
     findpeaks(amp, max_peak::Int = 50, eps_peak::Real = 0.005)
 Given a real-valued vector of amplitudes `amp`,
 find up to `max_peak` peaks.
-Ignores any amplitudes `≤ eps_peak * maxium(amp)`.
+Ignores any amplitudes `≤ eps_peak * maximum(amp)`.
 
 Returns a matrix with 3 columns where each row describes a peak.
 """
