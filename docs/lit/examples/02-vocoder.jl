@@ -77,6 +77,3 @@ p2 = plot((1:length(y))/S, y, label="y(t) processed",
  size = (600, 300),
 )
 p12 = plot(p1, p2; layout=(2,1))
-
-
-include("../../../inc/reproduce.jl")
