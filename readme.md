@@ -4,12 +4,13 @@ https://github.com/JuliaAudio/Sound.jl
 
 [![docs-stable][docs-stable-img]][docs-stable-url]
 [![docs-dev][docs-dev-img]][docs-dev-url]
-[![action status][action-img]][action-url]
-[![pkgeval status][pkgeval-img]][pkgeval-url]
-[![codecov][codecov-img]][codecov-url]
-[![license][license-img]][license-url]
-[![code-style][code-blue-img]][code-blue-url]
+[![action][action-img]][action-url]
 <!-- [![Aqua QA][aqua-img]][aqua-url] -->
+[![codecov][codecov-img]][codecov-url]
+[![deps][deps-img]][deps-url]
+[![license][license-img]][license-url]
+[![pkgeval][pkgeval-img]][pkgeval-url]
+[![version][ver-img]][ver-url]
 
 This Julia repo exports the functions
 `sound`
@@ -174,19 +175,26 @@ because Terminal will properly request microphone permissions.
 <!-- URLs -->
 [action-img]: https://github.com/JuliaAudio/Sound.jl/workflows/CI/badge.svg
 [action-url]: https://github.com/JuliaAudio/Sound.jl/actions
-[build-img]: https://github.com/JuliaAudio/Sound.jl/workflows/CI/badge.svg?branch=main
-[build-url]: https://github.com/JuliaAudio/Sound.jl/actions?query=workflow%3ACI+branch%3Amain
-[pkgeval-img]: https://juliaci.github.io/NanosoldierReports/pkgeval_badges/S/Sound.svg
-[pkgeval-url]: https://juliaci.github.io/NanosoldierReports/pkgeval_badges/S/Sound.html
-[code-blue-img]: https://img.shields.io/badge/code%20style-blue-4495d1.svg
-[code-blue-url]: https://github.com/invenia/BlueStyle
-[codecov-img]: https://codecov.io/github/JuliaAudio/Sound.jl/coverage.svg?branch=main
-[codecov-url]: https://codecov.io/github/JuliaAudio/Sound.jl?branch=main
-[docs-stable-img]: https://img.shields.io/badge/docs-stable-blue.svg
-[docs-stable-url]: https://JuliaAudio.github.io/Sound.jl/stable
+
+[aqua-img]: https://juliatesting.github.io/Aqua.jl/dev/assets/badge.svg
+[aqua-url]: https://github.com/JuliaTesting/Aqua.jl
+
+[codecov-img]: https://codecov.io/github/JuliaAudio/Sound.jl/coverage.svg
+[codecov-url]: https://codecov.io/github/JuliaAudio/Sound.jl
+
+[deps-img]: https://juliahub.com/docs/Sound/deps.svg
+[deps-url]: https://juliahub.com/ui/Packages/Sound
+
 [docs-dev-img]: https://img.shields.io/badge/docs-dev-blue.svg
 [docs-dev-url]: https://JuliaAudio.github.io/Sound.jl/dev
-[license-img]: http://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat
+[docs-stable-img]: https://img.shields.io/badge/docs-stable-blue.svg
+[docs-stable-url]: https://JuliaAudio.github.io/Sound.jl/stable
+
+[license-img]: http://img.shields.io/badge/license-MIT-brightgreen.svg
 [license-url]: LICENSE
-[aqua-img]: https://img.shields.io/badge/Aqua.jl-%F0%9F%8C%A2-aqua.svg
-[aqua-url]: https://github.com/JuliaTesting/Aqua.jl
+
+[pkgeval-img]: https://juliaci.github.io/NanosoldierReports/pkgeval_badges/S/Sound.svg
+[pkgeval-url]: https://juliaci.github.io/NanosoldierReports/pkgeval_badges/S/Sound.html
+
+[ver-img]: https://juliahub.com/docs/Sound/version.svg
+[ver-url]: https://juliahub.com/ui/Packages/Sound
