@@ -8,3 +8,6 @@ Plots = "91a5bcdd-55d7-5caf-9e0b-520d859cae80"
 SampledSignals = "bd7594eb-a658-542f-9e75-4c4d8908c167"
 Sound = "afe32e48-2646-410f-a1df-ae97debbc86b"
 Unitful = "1986cc42-f94f-5a68-af5c-568840ba703d"
+
+[compat]
+Unitful = "1.28.0"
